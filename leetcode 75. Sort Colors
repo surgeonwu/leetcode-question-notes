@@ -7,7 +7,7 @@ p0对应的元素之前（不包括p0对应的元素）应全是0，p0和curr之
 这样当curr和p2相遇的时候整个数组就排好了，这样的复杂度就为O(n)
 
 如下图：
-!(https://github.com/surgeonwu/leetcode-question-notes/blob/master/QQ%E6%88%AA%E5%9B%BE20190929103342.png?raw=true)
+[https://github.com/surgeonwu/leetcode-question-notes/blob/master/QQ%E6%88%AA%E5%9B%BE20190929103342.png?raw=true](http://)
 
 
   
